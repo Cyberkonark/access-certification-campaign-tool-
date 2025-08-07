@@ -31,11 +31,11 @@ Features
 7. Export Reports: Download campaign results in CSV format for audits.
 
 Use Cases
-Identity and Access Management (IAM)
+1. Identity and Access Management (IAM)
 
-Compliance audits (e.g., SOX, ISO 27001)
+2. Compliance audits (e.g., SOX, ISO 27001)
 
-Quarterly Access Reviews (QAR)
+3. Quarterly Access Reviews (QAR)
 
 Enterprise user provisioning and governance
 

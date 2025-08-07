@@ -1,5 +1,9 @@
 # access-certification-campaign-tool
 
+# Abstract
+
+Access Certification Campaign Tool is a web-based Identity Governance and Administration (IGA) platform built with Django and PostgreSQL, designed to help organizations perform regular access reviews for compliance. It integrates with LDAP for authentication and uses a SCIM 2.0 connector to fetch users and roles from identity providers like Okta or Azure AD. The tool enables administrators to launch campaigns, and managers to certify or revoke user access to applications and roles, with audit-ready reporting capabilities.
+
 A secure and extensible Access Review Platform built with Django + PostgreSQL, featuring:
 
 1. LDAP integration for enterprise authentication
